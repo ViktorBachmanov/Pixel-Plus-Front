@@ -8,7 +8,7 @@
   font-weight: normal;
 }
 
-a,
+/* a,
 .green {
   text-decoration: none;
   color: hsla(160, 100%, 37%, 1);
@@ -32,4 +32,13 @@ a,
     grid-template-columns: 1fr 1fr;
     padding: 0 2rem;
   }
+} */
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 0.5px solid gray;
+  padding: 0.5em;
 }
