@@ -9,7 +9,3 @@ import WeatherData from './components/WeatherData.vue'
     </Suspense>
   </main>
 </template>
-
-<style scoped>
-
-</style>

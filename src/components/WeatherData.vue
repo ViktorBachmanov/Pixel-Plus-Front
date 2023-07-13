@@ -13,11 +13,6 @@ const { data } = await useFetch(period);
 
 <template>
   
-
-  <!-- <pre>
-    {{ data }}
-  </pre> -->
-
   <table>
     <thead>
       <tr>
